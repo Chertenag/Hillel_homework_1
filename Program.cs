@@ -45,9 +45,10 @@ namespace Hillel_homework_1
             }
         }
 
-        public void Foo()
+        public int Foo()
         {
-
+            var i = 0;
+            return i;
         }
     }
 }
