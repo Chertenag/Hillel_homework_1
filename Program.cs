@@ -44,5 +44,10 @@ namespace Hillel_homework_1
                 }
             }
         }
+
+        public void Foo()
+        {
+
+        }
     }
 }
